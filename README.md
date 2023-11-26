@@ -1,9 +1,6 @@
 
-# Port_Folio
-
-It is Parallax Effect Website.It has been made using HTML and CSS.In this Website,when you scroll down ,
-you will see one image override on another image and after text image will be changed . this concept is likely based on concept of Relative Motion.
-
+# RazorPay_Clone
+It is RazorPay Clone made using HTML ,TAILWIND CSS . 
 ## Authors
 
 - [@ramdeshmukh3003](https://www.github.com/ramdeshmukh3003)
@@ -20,15 +17,20 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ## Deployment
 
 To deploy this project run
-
+in Terminal , 
+for installling  node modules and packages.
 ```bash
-  Go live
+   npm install
+```
+for running the live server
+```bash
+  npm run start
 ```
 
 
 ## Tech Stack
 
-**Client:** HTML , CSS.
+**Client:** HTML , CSS , TAILWIND CSS.
 
 
 
@@ -38,7 +40,7 @@ To deploy this project run
 Clone the project
 
 ```bash
-  git clone https://github.com/ramdeshmukh3003/Parallax_Effect.git
+  git clone https://github.com/ramdeshmukh3003/RazorPay_Clone.git
 ```
 
 Go to the project directory
@@ -52,7 +54,7 @@ Go to the project directory
 Start the server
 
 ```bash
-  click on "Go live" button 
+  npm run start
 ```
 
 
