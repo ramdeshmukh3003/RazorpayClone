@@ -23,6 +23,7 @@ for installling  node modules and packages.
    npm install
 ```
 for running the live server
+write the command in Terminal
 ```bash
   npm run start
 ```
@@ -52,7 +53,7 @@ Go to the project directory
 
 
 Start the server
-
+write the command in terminal
 ```bash
   npm run start
 ```
